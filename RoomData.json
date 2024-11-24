@@ -2,9 +2,9 @@
   {
     "CreationTime": null,
     "RoomId": 1,
-    "Name": "TestRoom",
+    "Name": "IDRK",
     "Description": "testing rooms on LocalQuest",
-    "ImageName": "DefaultPFP",
+    "ImageName": "IDDDD",
     "Sandbox": true,
     "CreatorPlayerId": 658230169,
     "AllowScreenMode": true,
@@ -12,8 +12,8 @@
       {
         "SceneId":1,
         "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
-        "Name": "silliest",
-        "DataBlob": null
+        "Name": "aaaa",
+        "DataBlob": RoomFile1985673815.room
       }
     ]
   },
