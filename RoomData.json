@@ -17,21 +17,5 @@
       }
     ]
   },
-  {
-    "CreationTime": null,
-    "RoomId": 2,
-    "Name": "EpikArea",
-    "Description": "[|=)]",
-    "ImageName": "YUYU",
-    "Sandbox": true,
-    "CreatorPlayerId": 658230169,
-    "AllowScreenMode": true,
-    "Scenes": [
-      {
-        "SceneId":1,
-        "UnitySceneId": "a75f7547-79eb-47c6-8986-6767abcb4f92",
-        "Name": "Home",
-        "DataBlob": "RoomFile1732156236.room"
-      }
-    ]
-  },
+
+  
